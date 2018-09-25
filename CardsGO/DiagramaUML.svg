@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="27cm" viewBox="12 83 490 528" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="13" y="84" width="487.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13" y="84" width="487.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="256.7" y="103">Card</text>
+    <rect style="fill: #ffffff" x="13" y="112" width="487.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13" y="112" width="487.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="126">+value: char[]</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="142">+figure: char[]</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="158">+color: ConsoleColor</text>
+    <rect style="fill: #ffffff" x="13" y="164" width="487.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="13" y="164" width="487.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="178">+Card(pValue:string,pFigure:string=null,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="194">      pColor:ConsoleColor=.White)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="16" y="210">+Card(pValue:char[],pFigure:char[],pColor:ConsoleColor=.White)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="28" y="229" width="325.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="28" y="229" width="325.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="190.85" y="248">Player</text>
+    <rect style="fill: #ffffff" x="28" y="257" width="325.7" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="28" y="257" width="325.7" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="271">+name: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="287">+lives: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="303">+color: ConsoleColor</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="319">+baraja: Stack = new Stack()</text>
+    <rect style="fill: #ffffff" x="28" y="325" width="325.7" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="28" y="325" width="325.7" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="339">+Player(pName:string=UnKnow,pLives:int=0,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="355">        pColor:ConsoleColor=.White)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="371">+GiveCard(pcard:Card): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="387">+GiveBaraja(pBaraja:Card[],_n:int): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="403">+GetCardsCant(): int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="31" y="419">+showCards(): Card[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="108" y="474" width="310.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108" y="474" width="310.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="263.15" y="493">Program</text>
+    <rect style="fill: #ffffff" x="108" y="502" width="310.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108" y="502" width="310.3" height="8"/>
+    <rect style="fill: #ffffff" x="108" y="510" width="310.3" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108" y="510" width="310.3" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="524">+Main()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="540">+PrintCard(pCard:Card): string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="556">+CrearNaipes(pProtoNaipes:Stack): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="572">+MixNaipes(pNaipes:Stack): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="588">+CatchCard(pNaipes:Stack,ran:int): card</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="111" y="604">+CaptureColor(): ConsoleColor</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+D:\Proyectos\Framework .Net SourceCode\CardsGO\bin\Debug\netcoreapp2.1\CardsGO.deps.json
+D:\Proyectos\Framework .Net SourceCode\CardsGO\bin\Debug\netcoreapp2.1\CardsGO.runtimeconfig.json
+D:\Proyectos\Framework .Net SourceCode\CardsGO\bin\Debug\netcoreapp2.1\CardsGO.runtimeconfig.dev.json
+D:\Proyectos\Framework .Net SourceCode\CardsGO\bin\Debug\netcoreapp2.1\CardsGO.dll
+D:\Proyectos\Framework .Net SourceCode\CardsGO\bin\Debug\netcoreapp2.1\CardsGO.pdb
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.csprojAssemblyReference.cache
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.csproj.CoreCompileInputs.cache
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.AssemblyInfoInputs.cache
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.AssemblyInfo.cs
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.dll
+D:\Proyectos\Framework .Net SourceCode\CardsGO\obj\Debug\netcoreapp2.1\CardsGO.pdb
+F:\CardsGo\bin\Debug\netcoreapp2.1\CardsGO.deps.json
+F:\CardsGo\bin\Debug\netcoreapp2.1\CardsGO.runtimeconfig.json
+F:\CardsGo\bin\Debug\netcoreapp2.1\CardsGO.runtimeconfig.dev.json
+F:\CardsGo\bin\Debug\netcoreapp2.1\CardsGO.dll
+F:\CardsGo\bin\Debug\netcoreapp2.1\CardsGO.pdb
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.csprojAssemblyReference.cache
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.csproj.CoreCompileInputs.cache
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.AssemblyInfoInputs.cache
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.AssemblyInfo.cs
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.dll
+F:\CardsGo\obj\Debug\netcoreapp2.1\CardsGO.pdb
