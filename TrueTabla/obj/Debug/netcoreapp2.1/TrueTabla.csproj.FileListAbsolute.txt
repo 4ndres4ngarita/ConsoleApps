@@ -1,0 +1,44 @@
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.deps.json
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.json
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.dev.json
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.dll
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.pdb
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csprojAssemblyReference.cache
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csproj.CoreCompileInputs.cache
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfoInputs.cache
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfo.cs
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.dll
+D:\Proyectos\Framework .Net SourceCode\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.pdb
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csprojAssemblyReference.cache
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csproj.CoreCompileInputs.cache
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfoInputs.cache
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfo.cs
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.dll
+F:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.pdb
+F:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.deps.json
+F:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.json
+F:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.dev.json
+F:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.dll
+F:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.pdb
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.dll
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.pdb
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.deps.json
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.json
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.dev.json
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.dll
+C:\Users\ESTUDIANTE\Desktop\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.pdb
+H:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.deps.json
+H:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.json
+H:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.runtimeconfig.dev.json
+H:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.dll
+H:\TrueTabla\bin\Debug\netcoreapp2.1\TrueTabla.pdb
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csprojAssemblyReference.cache
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.csproj.CoreCompileInputs.cache
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfoInputs.cache
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.AssemblyInfo.cs
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.dll
+H:\TrueTabla\obj\Debug\netcoreapp2.1\TrueTabla.pdb
